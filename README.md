@@ -1,3 +1,5 @@
+_This repo was forked for archival purposes by the [Public Environmental Data Partners](https://screening-tools.com/)._
+
 # hts-db
 The hts-db is a simple but powerful system for storing and analyzing chemical-bioactivity assay data. The backend is a mongodb NoSQL database with a python mongoengine object-oriented interface. All data analysis and visualization is handled in python using Pandas, numpy, scipy and matplotlib. 
 
